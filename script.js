@@ -3,7 +3,6 @@ const str = "The most beautiful girl on earth"
 //console.log(str);
 let newArray = str.split(" ");
 //console.log(newArray);
-//console.log(newArray[1].length);
 
 findLongestWord = (str) => {
 	let newArray = str.split(" ");
